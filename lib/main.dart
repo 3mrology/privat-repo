@@ -14,7 +14,7 @@ void main() {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.redAccent),
         useMaterial3: true,
       ),
-      home: const HomePage(),
+      home: const LoginView(),
       debugShowCheckedModeBanner: false,
     ),
   );
