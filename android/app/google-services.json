@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805069464838",
+    "project_id": "amrology-testing-349cc",
+    "storage_bucket": "amrology-testing-349cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805069464838:android:579a9e255ea6e04e312a87",
+        "android_client_info": {
+          "package_name": "com.example.untitled17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFAHfOIX3I_imUgDVea2zKHn-zjZfFYFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
